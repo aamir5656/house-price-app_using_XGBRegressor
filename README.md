@@ -68,3 +68,5 @@ This project uses a publicly available Housing Prices Dataset originally sourced
 
 Aamir Shahzad – Housing Price Prediction Project (2025)
 
+🚀 **Live App:** [Click here to use the Housing Price Predictor](https://xgb-housing-price-app.streamlit.app) 
+
